@@ -8,7 +8,7 @@ import ExperienceCard from "../cards/ExperienceCard";
 const Container = styled.div`
   display: flex;
   flex-direction: column;
-  justify-contnet: center;
+  justify-content: center;
   margin-top: 50px;
   position: rlative;
   z-index: 1;
